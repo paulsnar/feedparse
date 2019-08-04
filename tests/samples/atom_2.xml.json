@@ -1,0 +1,39 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "Grumpy Website",
+  "description": "Do you want to cancel? – YES / CANCEL",
+  "feed_url": "https://grumpy.website/feed.xml",
+  "home_page_url": "https://grumpy.website/",
+  "items": [
+    {
+      "id": "https://grumpy.website/post/0SGiQON-r",
+      "title": "nikitonsky is being grumpy",
+      "url": "https://grumpy.website/post/0SGiQON-r",
+      "attachments": [
+        {
+          "url": "https://grumpy.website/post/0SGiQON-r/LlRxBke.fit.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "date_published": "2019-08-04T14:08:25Z",
+      "date_modified": "2019-08-04T14:08:25Z",
+      "author": {"name": "nikitonsky"},
+      "content_html": "<div><p><a href=\"https://grumpy.website/post/0SGiQON-r/LlRxBke.png\"><img src=\"https://grumpy.website/post/0SGiQON-r/LlRxBke.fit.jpeg\" style=\"width:281px;height:500px\" width=\"281\" height=\"500\"></a></p><p><strong>nikitonsky: </strong>For each taxi ride you get a screenful of notifications. I call it the notification diarrhea</p></div>"
+    },
+    {
+      "id": "https://grumpy.website/post/0SGdYelIi",
+      "title": "freetonik is being grumpy",
+      "url": "https://grumpy.website/post/0SGdYelIi",
+      "attachments": [
+        {
+          "url": "https://grumpy.website/post/0SGdYelIi/LlQl88p.fit.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "date_published": "2019-08-04T08:35:54Z",
+      "date_modified": "2019-08-04T08:35:54Z",
+      "author": {"name": "freetonik"},
+      "content_html": "<div><p><a href=\"https://grumpy.website/post/0SGdYelIi/LlQl88p.png\"><img src=\"https://grumpy.website/post/0SGdYelIi/LlQl88p.fit.jpeg\" style=\"width:281px;height:500px\" width=\"281\" height=\"500\"></a></p><p><strong>freetonik: </strong>I asked Siri to \"add degreser to my shopping list and remind me about it in 30 minutes\".</p><p>Well, it did remind me about it. Thanks, Siri.</p></div>"
+    }
+  ]
+}

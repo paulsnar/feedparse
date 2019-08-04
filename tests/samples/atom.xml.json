@@ -1,0 +1,30 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "Una's corner",
+  "home_page_url": "https://unascribed.com",
+  "feed_url": "https://unascribed.com/feed.xml",
+  "author": {
+    "name": "Una Thompson",
+    "url": "https://unascribed.com"
+  },
+  "items": [
+    {
+      "id": "https://unascribed.com/b/2019-08-02-the-tragedy-of-ucs2.md",
+      "title": "The Tragedy of UCS-2",
+      "summary": "Apropos of nothing, I'd like to tell you a tale. It's not an original tale, but it's one of my favorites.",
+      "date_published": "2019-08-03T07:49:00.000Z",
+      "date_modified": "2019-08-04T01:18:02.000Z",
+      "url": "https://unascribed.com/b/2019-08-02-the-tragedy-of-ucs2.html",
+      "tags": ["technical", "unicode", "technology", "utf-16", "widechar", "wchar"]
+    },
+    {
+      "id": "https://unascribed.com/b/2019-08-02-ghost-the-hard-way.md",
+      "title": "Installing Ghost the hard way",
+      "summary": "I get angry about a trend in server hosting and software development and go on a petty crusade to rectify one particular instance of it. Also, I ramble about a blog... on a blog.",
+      "date_published": "2019-08-03T02:07:00.000Z",
+      "date_modified":"2019-08-03T19:03:52.000Z",
+      "url": "https://unascribed.com/b/2019-08-02-ghost-the-hard-way.html",
+      "tags": ["sysadmin", "ghost", "tryghost", "ghostblog", "technology", "software"]
+    }
+  ]
+}

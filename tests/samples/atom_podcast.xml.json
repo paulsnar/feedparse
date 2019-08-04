@@ -1,0 +1,38 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "Tommyball Corner",
+  "home_page_url": "https://tommyball.corner/",
+  "feed_url": "https://tommyball.corner/feed.xml",
+  "items": [
+    {
+      "id": "https://tommyball.corner/ep/264",
+      "title": "#264: Preparing for the New Season",
+      "summary": "Your hosts are back, and they are ready to cover the next thirty-two minutes of hot Tommyball news.",
+      "date_published": "2018-12-31T23:59:58Z",
+      "date_modified": "2018-12-31T23:59:59Z",
+      "url": "https://tommyball.corner/ep/264",
+      "attachments": [
+        {
+          "url": "https://cdn.tommyball.corner/podcast/ep264.mp3",
+          "mime_type": "audio/mpeg",
+          "size_in_bytes": 13579246
+        }
+      ]
+    },
+    {
+      "id": "https://tommyball.corner/ep/263",
+      "title": "#263: Final Remarks of the Season",
+      "summary": "It's been a packed one! Your hosts look over the last thirty-two minutes, covering everything that happened upon that rhombus field.",
+      "date_published": "2018-12-31T23:30:00Z",
+      "date_modified": "2018-12-31T23:30:00Z",
+      "url": "https://tommyball.corner/ep/263",
+      "attachments": [
+        {
+          "url": "https://cdn.tommyball.corner/podcast/ep263.mp3",
+          "mime_type": "audio/mpeg",
+          "size_in_bytes": 12345678
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit
+    bootstrap="vendor/autoload.php"
+    beStrictAboutCoversAnnotation="true"
+    colors="true">
+  <testsuites>
+    <testsuite name="FeedParse tests">
+      <directory>tests/</directory>
+      <exclude>tests/Utilities/</exclude>
+      <exclude>tests/samples/</exclude>
+    </testsuite>
+  </testsuites>
+  <filter>
+    <whitelist
+        processUncoveredFilesFromWhitelist="true">
+      <directory>src/</directory>
+    </whitelist>
+  </filter>
+</phpunit>

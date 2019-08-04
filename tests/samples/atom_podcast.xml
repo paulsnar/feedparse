@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- I am not really aware of any podcasts doing their feeds over Atom,
+     so I had to make up my own.
+     Some content might be borrowed from The Unmade Podcast. -->
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Tommyball Corner</title>
+  <link rel="self" href="https://tommyball.corner/feed.xml"/>
+  <link rel="alternate" href="https://tommyball.corner/"/>
+  <id>https://tommyball.corner/feed.xml</id>
+  <updated>2018-12-31T23:59:59Z</updated>
+  <entry>
+    <title>#264: Preparing for the New Season</title>
+    <summary>Your hosts are back, and they are ready to cover the next thirty-two minutes of hot Tommyball news.</summary>
+    <id>https://tommyball.corner/ep/264</id>
+    <published>2018-12-31T23:59:58Z</published>
+    <updated>2018-12-31T23:59:59Z</updated>
+    <link rel="alternate" href="https://tommyball.corner/ep/264"/>
+    <link rel="enclosure" type="audio/mpeg" length="13579246"
+      href="https://cdn.tommyball.corner/podcast/ep264.mp3"/>
+  </entry>
+  <entry>
+    <title>#263: Final Remarks of the Season</title>
+    <summary>It's been a packed one! Your hosts look over the last thirty-two minutes, covering everything that happened upon that rhombus field.</summary>
+    <id>https://tommyball.corner/ep/263</id>
+    <published>2018-12-31T23:30:00Z</published>
+    <updated>2018-12-31T23:30:00Z</updated>
+    <link rel="alternate" href="https://tommyball.corner/ep/263"/>
+    <link rel="enclosure" type="audio/mpeg" length="12345678"
+      href="https://cdn.tommyball.corner/podcast/ep263.mp3"/>
+  </entry>
+</feed>

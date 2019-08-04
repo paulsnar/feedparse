@@ -1,0 +1,38 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "Analog(ue)",
+  "description": "So many podcasts are about our digital devices. Analog(ue) is a show about how these devices make us feel and how they change our lives for the better, but also for the worse. Hosted by Myke Hurley and Casey Liss.",
+  "home_page_url": "https://www.relay.fm/analogue",
+  "items": [
+    {
+      "id": "http://relay.fm/analogue/162",
+      "url": "http://relay.fm/analogue/162",
+      "title": "Analog(ue) 162: Extremely Worthwhile Waste of Time",
+      "summary": "Myke inspires the youth and sails a boat. Casey is rethinking some social media usage and ponders the future of his app.",
+      "date_published": "2019-08-04T14:15:00Z",
+      "attachments": [
+        {
+          "url": "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/analogue/analogue162.mp3",
+          "mime_type": "audio/mp3",
+          "size_in_bytes": 79671370
+        }
+      ],
+      "content_html": "<p>Myke inspires the youth and sails a boat. Casey is rethinking some social media usage and ponders the future of his app.</p>\n <h4>This episode of Analog(ue) is sponsored by:</h4> <ul>\n<li><a href=\"http://squarespace.com/analogue\">Squarespace</a>: Make your next move. Enter offer code ANALOGUE at checkout to get 10% off your first purchase.</li>\n<li><a href=\"https://www.expressvpn.com/analogue\">ExpressVPN</a>: High-Speed, Secure &amp; Anonymous VPN Service. Get 3 months free with a 1-year package.</li>\n<li><a href=\"http://pingdom.com/ooo\">Pingdom</a>: Start monitoring your website performance and availability today, and get instant alerts when an outage occurs or a site transaction fails. Use offer code ANALOGUE to get 30% off.</li>\n</ul>\n<h4>Links and Show Notes:</h4>  <h5><a rel='payment' href='https://relayfm.memberful.com/checkout?plan=9624'>Support Analog(ue) with a Relay FM Membership</a></h5> <h5><a href=\"https://www.relay.fm/bonanza/37\" target=\"_blank\">BONANZA #37: Of Course They Are, They’re Llamas</a></h5> <h5><a href=\"https://cottonbureau.com/products/the-theme-system-journal#/1695095/grey-paper-5x8\" target=\"_blank\">“The Theme System Journal” graphic notebook by Cortex Podcast</a></h5> <h5><a href=\"https://www.netflix.com/gb/title/81098589\" target=\"_blank\">Aziz Ansari: RIGHT NOW</a></h5> <h5><a href=\"https://en.wikipedia.org/wiki/Narrowboat\" target=\"_blank\">Narrowboat</a></h5> <h5><a href=\"https://www.instagram.com/p/B0d1QRgJsV3/\" target=\"_blank\">Jeremy Burge on Instagram: \"House guests\"</a></h5> <h5><a href=\"https://www.instagram.com/stories/highlights/18017515339217420/\" target=\"_blank\">Myke's Boat Stories</a></h5>"
+    },
+    {
+      "id": "http://relay.fm/analogue/161",
+      "url": "http://relay.fm/analogue/161",
+      "title": "Analog(ue) 161: Perfect Storm of Stuff",
+      "summary": "More unexpected vacations, plans for celebrations, and apps we cannot live without.",
+      "date_published": "2019-07-21T16:00:00Z",
+      "attachments": [
+        {
+          "url": "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/analogue/analogue161.mp3",
+          "mime_type": "audio/mp3",
+          "size_in_bytes": 74372341
+        }
+      ],
+      "content_html": "<p>More unexpected vacations, plans for celebrations, and apps we cannot live without.</p>\n <h4>This episode of Analog(ue) is sponsored by:</h4> <ul>\n<li><a href=\"http://pingdom.com/ooo\">Pingdom</a>: Start monitoring your websites and servers today. Use offer code ANALOGUE to get 30% off.</li>\n<li><a href=\"$URL\">TextExpander, from Smile</a>: Give your productivity a boost with TextExpander. Get 20% off with your first year.</li>\n<li><a href=\"http://islonline.com/analogue\">ISL Online</a>: The Most Reliable Remote Desktop Software</li>\n</ul>\n<h4>Links and Show Notes:</h4>  <h5><a rel='payment' href='https://relayfm.memberful.com/checkout?plan=9624'>Support Analog(ue) with a Relay FM Membership</a></h5> <h5><a href=\"https://en.wikipedia.org/wiki/Eastern_Shore_of_Virginia\" target=\"_blank\">Eastern Shore of Virginia</a></h5> <h5><a href=\"https://www.instagram.com/p/BpS8nXFFgxf/\" target=\"_blank\">Casey's Drone Footage of Cape Charles</a></h5> <h5><a href=\"https://www.relay.fm/connected/251\" target=\"_blank\">Connected #251: The Worrier Warrior - Relay FM</a></h5> <h5><a href=\"https://ti.to/relayfm/5/en\" target=\"_blank\">Relay FM 5th Anniversary Live Show Tickets</a></h5> <h5><a href=\"https://dayoneapp.com/\" target=\"_blank\">Day One</a></h5> <h5><a href=\"https://homebridge.io/\" target=\"_blank\">Homebridge</a></h5> <h5><a href=\"https://www.apple.com/shop/product/MVQQ2LL/A/iphone-xs-max-smart-battery-case-pink-sand?fnode=99\" target=\"_blank\">iPhone XS Max Smart Battery Case</a></h5> <h5><a href=\"https://www.odwalla.com/products/smoothies/mango-tango\" target=\"_blank\">Odwalla</a></h5> <h5><a href=\"https://www.llbean.com/llb/shop/70705?page=lunch-box&bc=&feat=lunch%20box-SR0&csp=a&searchTerm=lunch%20box\" target=\"_blank\">Casey's Lunch Box</a></h5>"
+    }
+  ]
+}
