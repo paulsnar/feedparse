@@ -30,6 +30,12 @@ different package then.
 
 [jsonfeed-mapping]: https://jsonfeed.org/mappingrssandatom
 
+Note that this parser is _strict_ but not _validating_. If the feed is not
+correctly-formed (say, it's just a `<rss version="2.0" />`) the parser will
+go through it and return basically an empty JSON Feed object, where not even
+the required fields will be present. Therefore don't trust that the returned
+array will be compliant -- everything might be missing. :)
+
 ## Usage
 
 ```php
