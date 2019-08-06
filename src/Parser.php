@@ -34,7 +34,7 @@ class Parser
   {
     $ok = xml_parse($this->p, $chunk, $final);
     if ( ! $ok) {
-      throw new XMLError($this->p);
+      throw new XmlError($this->p);
     }
   }
 

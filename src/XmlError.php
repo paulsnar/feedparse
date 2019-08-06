@@ -2,7 +2,7 @@
 
 namespace PN\FeedParse;
 
-class XMLError extends \RuntimeException
+class XmlError extends \RuntimeException
 {
   public function __construct($parser)
   {
