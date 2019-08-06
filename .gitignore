@@ -1,4 +1,5 @@
 .DS_Store
 /vendor
+/composer.lock
 .*.swp
 /.phpunit.result.cache

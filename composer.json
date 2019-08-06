@@ -1,6 +1,7 @@
 {
   "name": "paulsnar/feedparse",
   "version": "0.1.0",
+  "license": "ISC",
   "autoload": {
     "psr-4": {
       "PN\\FeedParse\\": "src/"
